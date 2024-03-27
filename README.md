@@ -1,5 +1,8 @@
 # snake_game
-**A rudamentary python Snake game i made using turtle graphics back in 2021**
+
+<img height=auto width=200px src="./snake_game/sgss.png"/>
+
+**A rudamentary python Snake game**
 
 ## To run this game:
 * clone this repo on your local machine.
