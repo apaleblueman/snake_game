@@ -1,6 +1,6 @@
 # snake_game
 
-<img height=auto width=200px src="./snake_game/sgss.png"/>
+<img height=auto width=200px src="./snakegame/sgss.png"/>
 
 **A rudamentary python Snake game**
 
